@@ -1,0 +1,7 @@
+.menu__lista{
+    display: flex;
+}
+
+.menu__lista:last-child{
+    margin-right: 0;
+}
