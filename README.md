@@ -1,2 +1,2 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Fruta&Fruto
+Curso voltado para boas práticas de arquitetura CSS da Alura. 
